@@ -40,3 +40,5 @@ a {
     color-scheme: dark;
   }
 }
+
+@import url("@glidejs/glide/dist/css/glide.core.min.css");
